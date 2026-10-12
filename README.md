@@ -6,7 +6,7 @@ Course: CV5100 – Modelling, Uncertainty, and Data for Engineers
 
 *Written by: `pradeep, prakash, and sudheendra`*
 
-*Due: `Monday, Oct 20, 2025`*
+*Due: `Monday, Oct 19, 2026`*
 
 🚀 Overview
 
